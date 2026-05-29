@@ -2,6 +2,23 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-05-29 — upgrade pass (Group B)
+
+Scope: integrate the §10 stratigraphy better and engage alternatives.
+
+Changes:
+- §10: justified the eight-capacity selection (single securely dated onset;
+  symbolic marking and cooking excluded for lack of one defensible date); named
+  the eight; showed the simulation entry point.
+- §5: said concretely why Wonderwerk reads as controlled, not natural fire
+  (microstratigraphy: burned bone and ashed plant matter in undisturbed deep-cave
+  layers beyond wildfire/lightning reach).
+- §7: stated the Neanderthal admixture magnitude (a few percent in present-day
+  non-African genomes).
+
+Verification: voice 0 errors; refs advisory (primary-source title-year); claims
+0 unmatched; build clean; check => PASS. Status remains `built` (off-web).
+
 ## 2026-05-29 — computational layer added
 
 Scope: instrument the "capacities predate the sapiens boundary" thesis with a
