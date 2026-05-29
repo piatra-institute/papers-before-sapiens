@@ -1,0 +1,8 @@
+[project]
+name = "before-sapiens-sim"
+version = "0.1.0"
+description = "Capability stratigraphy of the hominin record: first-appearance dates from the cited literature, with lead times before the sapiens boundary"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.8",
+]

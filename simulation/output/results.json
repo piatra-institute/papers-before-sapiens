@@ -1,0 +1,217 @@
+{
+  "sapiens_boundary_Ma": {
+    "jebel_irhoud": 0.315,
+    "omo_i": 0.233,
+    "herto": 0.16
+  },
+  "primary_boundary": "jebel_irhoud",
+  "chronology_Ma": [
+    {
+      "event": "Sahelanthropus tchadensis (contested)",
+      "date_Ma": 7.0,
+      "citation": "Brunet et al. 2002"
+    },
+    {
+      "event": "Ardipithecus ramidus",
+      "date_Ma": 4.4,
+      "citation": "White et al. 2009"
+    },
+    {
+      "event": "Australopithecus afarensis (upper range)",
+      "date_Ma": 3.9,
+      "citation": "afarensis 3.9-2.9 Ma"
+    },
+    {
+      "event": "Laetoli footprints",
+      "date_Ma": 3.66,
+      "citation": "Leakey & Hay 1979"
+    },
+    {
+      "event": "Lomekwi 3 stone tools",
+      "date_Ma": 3.3,
+      "citation": "Harmand et al. 2015"
+    },
+    {
+      "event": "Lucy (A. afarensis)",
+      "date_Ma": 3.2,
+      "citation": "A. afarensis"
+    },
+    {
+      "event": "Nyayanga (upper bound)",
+      "date_Ma": 3.0,
+      "citation": "Plummer et al. 2023"
+    },
+    {
+      "event": "Gona Oldowan",
+      "date_Ma": 2.6,
+      "citation": "Semaw et al. 1997"
+    },
+    {
+      "event": "Dmanisi dispersal",
+      "date_Ma": 1.8,
+      "citation": "Lordkipanidze et al. 2013"
+    },
+    {
+      "event": "Kokiselei Acheulean",
+      "date_Ma": 1.76,
+      "citation": "Lepre et al. 2011"
+    },
+    {
+      "event": "Nariokotome skeleton",
+      "date_Ma": 1.5,
+      "citation": "Brown et al. 1985"
+    },
+    {
+      "event": "Wonderwerk fire",
+      "date_Ma": 1.0,
+      "citation": "Berna et al. 2012"
+    },
+    {
+      "event": "Sima de los Huesos",
+      "date_Ma": 0.43,
+      "citation": "Meyer et al. 2016"
+    },
+    {
+      "event": "Jebel Irhoud",
+      "date_Ma": 0.315,
+      "citation": "Hublin et al. 2017; Richter et al. 2017"
+    },
+    {
+      "event": "Schoningen spears",
+      "date_Ma": 0.3,
+      "citation": "Thieme 1997"
+    },
+    {
+      "event": "Omo I",
+      "date_Ma": 0.233,
+      "citation": "Vidal et al. 2022"
+    },
+    {
+      "event": "Herto",
+      "date_Ma": 0.16,
+      "citation": "White et al. 2003"
+    }
+  ],
+  "capabilities": [
+    {
+      "capability": "bipedal locomotion",
+      "first_appearance_Ma": 4.4,
+      "site": "Ardipithecus ramidus body plan",
+      "maker": "Ardipithecus ramidus",
+      "citation": "White et al. 2009",
+      "lead_before_boundary_Ma": 4.085,
+      "predates_jebel_irhoud": true,
+      "predates_omo_i": true
+    },
+    {
+      "capability": "stone-flake production",
+      "first_appearance_Ma": 3.3,
+      "site": "Lomekwi 3, West Turkana",
+      "maker": "unknown (pre-secure Homo)",
+      "citation": "Harmand et al. 2015",
+      "lead_before_boundary_Ma": 2.985,
+      "predates_jebel_irhoud": true,
+      "predates_omo_i": true
+    },
+    {
+      "capability": "large-animal butchery",
+      "first_appearance_Ma": 2.9,
+      "site": "Nyayanga (3.0-2.6 Ma; midpoint used)",
+      "maker": "Paranthropus / early Homo",
+      "citation": "Plummer et al. 2023",
+      "lead_before_boundary_Ma": 2.585,
+      "predates_jebel_irhoud": true,
+      "predates_omo_i": true
+    },
+    {
+      "capability": "Oldowan technology",
+      "first_appearance_Ma": 2.6,
+      "site": "Gona, Ethiopia",
+      "maker": "early Homo",
+      "citation": "Semaw et al. 1997",
+      "lead_before_boundary_Ma": 2.285,
+      "predates_jebel_irhoud": true,
+      "predates_omo_i": true
+    },
+    {
+      "capability": "continental dispersal",
+      "first_appearance_Ma": 1.8,
+      "site": "Dmanisi, Georgia",
+      "maker": "early Homo",
+      "citation": "Lordkipanidze et al. 2013",
+      "lead_before_boundary_Ma": 1.485,
+      "predates_jebel_irhoud": true,
+      "predates_omo_i": true
+    },
+    {
+      "capability": "Acheulean biface",
+      "first_appearance_Ma": 1.76,
+      "site": "Kokiselei, Kenya",
+      "maker": "Homo erectus",
+      "citation": "Lepre et al. 2011",
+      "lead_before_boundary_Ma": 1.445,
+      "predates_jebel_irhoud": true,
+      "predates_omo_i": true
+    },
+    {
+      "capability": "controlled fire",
+      "first_appearance_Ma": 1.0,
+      "site": "Wonderwerk Cave (in situ burning)",
+      "maker": "Homo erectus / archaic",
+      "citation": "Berna et al. 2012",
+      "lead_before_boundary_Ma": 0.685,
+      "predates_jebel_irhoud": true,
+      "predates_omo_i": true
+    },
+    {
+      "capability": "wooden weapons",
+      "first_appearance_Ma": 0.3,
+      "site": "Schoningen, Germany",
+      "maker": "Neanderthal-lineage / Middle Pleistocene",
+      "citation": "Thieme 1997",
+      "lead_before_boundary_Ma": -0.015,
+      "predates_jebel_irhoud": false,
+      "predates_omo_i": true
+    }
+  ],
+  "contemporary_lineages": [
+    {
+      "lineage": "Neanderthal lineage (Sima de los Huesos)",
+      "date_Ma": 0.43,
+      "citation": "Meyer et al. 2016"
+    },
+    {
+      "lineage": "Homo naledi",
+      "date_Ma": 0.286,
+      "citation": "Dirks et al. 2017 (335-236 ka; midpoint used)"
+    },
+    {
+      "lineage": "Denisovans",
+      "date_Ma": 0.2,
+      "citation": "Reich et al. 2010 (from DNA; date approximate)"
+    },
+    {
+      "lineage": "Homo luzonensis",
+      "date_Ma": 0.067,
+      "citation": "Detroit et al. 2019 (minimum for one element)"
+    },
+    {
+      "lineage": "Homo floresiensis",
+      "date_Ma": 0.05,
+      "citation": "survival on Flores"
+    }
+  ],
+  "summary": {
+    "n_capabilities": 8,
+    "n_predating_jebel_irhoud": 7,
+    "n_predating_omo_i": 8,
+    "deepest_capability": "bipedal locomotion",
+    "deepest_Ma": 4.4,
+    "deepest_lead_Ma": 4.085,
+    "shallowest_capability": "wooden weapons",
+    "shallowest_Ma": 0.3,
+    "capability_span_Ma": 4.1,
+    "median_lead_Ma": 1.885,
+    "n_contemporary_lineages": 5
+  }
+}
