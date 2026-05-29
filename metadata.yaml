@@ -1,0 +1,13 @@
+slug: before-sapiens
+web_slug: before-sapiens
+title: "Before Sapiens"
+header: "Before Sapiens"
+created: "2026-05"        # inception month (drives YYYY/MM archive path)
+date: null            # publication month (shown on web)
+paper_dir: paper
+has_simulation: false
+claims_target: none      # results.json | claim-ledger | none
+repo: git@github.com:piatra-institute/papers-before-sapiens.git
+github: https://github.com/piatra-institute/papers-before-sapiens
+status: draft              # draft | built | published
+abstract: null
