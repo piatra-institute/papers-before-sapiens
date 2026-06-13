@@ -2,6 +2,26 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-06-13 — voice reform
+
+Scope: density and rhythm pass against the house voice guide.
+
+Changes:
+- "carries/carry" thinned from 13 to 7: the figurative "lineage carried X,"
+  "carries weight," "behavioral modernity has carried too much" recast to
+  specific verbs (outweighs, sustained, rests on, asked to do); literal carrying
+  (bipedality, fire, infants) left intact.
+- Tricolon reflex: three-plus-item-list proxy from 57 to 41 by varying the worst
+  reflexive enumerations (asyndeton, period split, "all of which/all to be"
+  recasts), leaving the genuine record-survey enumerations readable.
+- Syntax warns (3 inline-contrastive ", not Z") rewritten as positive
+  declaratives in §4 (procession), §10 (crowded field, two).
+- "Conclusion" (§11) retitled "The inheritance is older."
+
+Verification: voice 0 errors, 0 review-candidates; refs advisory (narrative
+citations, unchanged); claims 0 unmatched (no number touched); build clean;
+check => PASS. Status unchanged.
+
 ## 2026-05-29 — upgrade pass (Group B)
 
 Scope: integrate the §10 stratigraphy better and engage alternatives.
