@@ -31,8 +31,8 @@ CAPABILITIES = [
      "Homo erectus", "Lepre et al. 2011"),
     ("controlled fire", 1.00, "Wonderwerk Cave (in situ burning)",
      "Homo erectus / archaic", "Berna et al. 2012"),
-    ("wooden weapons", 0.30, "Schoningen, Germany",
-     "Neanderthal-lineage / Middle Pleistocene", "Thieme 1997"),
+    ("wooden weapons", 0.20, "Schoningen, Germany (MIS 7)",
+     "Neanderthal-lineage / Middle Pleistocene", "Hutson et al. 2025"),
 ]
 
 # The sapiens boundary is not a single date. Three commonly cited points:
@@ -61,7 +61,7 @@ CHRONOLOGY = [
     ("Wonderwerk fire", 1.00, "Berna et al. 2012"),
     ("Sima de los Huesos", 0.43, "Meyer et al. 2016"),
     ("Jebel Irhoud", 0.315, "Hublin et al. 2017; Richter et al. 2017"),
-    ("Schoningen spears", 0.30, "Thieme 1997"),
+    ("Schoningen spears", 0.20, "Hutson et al. 2025"),
     ("Omo I", 0.233, "Vidal et al. 2022"),
     ("Herto", 0.16, "White et al. 2003"),
 ]

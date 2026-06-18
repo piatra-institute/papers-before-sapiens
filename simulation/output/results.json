@@ -78,8 +78,8 @@
     },
     {
       "event": "Schoningen spears",
-      "date_Ma": 0.3,
-      "citation": "Thieme 1997"
+      "date_Ma": 0.2,
+      "citation": "Hutson et al. 2025"
     },
     {
       "event": "Omo I",
@@ -165,13 +165,13 @@
     },
     {
       "capability": "wooden weapons",
-      "first_appearance_Ma": 0.3,
-      "site": "Schoningen, Germany",
+      "first_appearance_Ma": 0.2,
+      "site": "Schoningen, Germany (MIS 7)",
       "maker": "Neanderthal-lineage / Middle Pleistocene",
-      "citation": "Thieme 1997",
-      "lead_before_boundary_Ma": -0.015,
+      "citation": "Hutson et al. 2025",
+      "lead_before_boundary_Ma": -0.115,
       "predates_jebel_irhoud": false,
-      "predates_omo_i": true
+      "predates_omo_i": false
     }
   ],
   "contemporary_lineages": [
@@ -204,13 +204,13 @@
   "summary": {
     "n_capabilities": 8,
     "n_predating_jebel_irhoud": 7,
-    "n_predating_omo_i": 8,
+    "n_predating_omo_i": 7,
     "deepest_capability": "bipedal locomotion",
     "deepest_Ma": 4.4,
     "deepest_lead_Ma": 4.085,
     "shallowest_capability": "wooden weapons",
-    "shallowest_Ma": 0.3,
-    "capability_span_Ma": 4.1,
+    "shallowest_Ma": 0.2,
+    "capability_span_Ma": 4.2,
     "median_lead_Ma": 1.885,
     "n_contemporary_lineages": 5
   }
