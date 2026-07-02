@@ -151,7 +151,7 @@ Brunet, M. et al. (2002). A new hominid from the Upper Miocene of Chad, Central 
 
 Brown, F., Harris, J., Leakey, R., & Walker, A. (1985). Early *Homo erectus* skeleton from west Lake Turkana, Kenya. *Nature*, 316, 788--792.
 
-Detrait, F. et al. (2019). A new species of *Homo* from the Late Pleistocene of the Philippines. *Nature*, 568, 181--186.
+Détroit, F., et al. (2019). A new species of *Homo* from the Late Pleistocene of the Philippines. *Nature*, 568, 181--186.
 
 Dirks, P. H. G. M. et al. (2017). The age of *Homo naledi* and associated sediments in the Rising Star Cave, South Africa. *eLife*, 6, e24231.
 
