@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "id": "before-sapiens",
+  "started": "2026-09-23T03:59:03.579423+00:00",
+  "finished": "2026-09-23T03:59:04.111230+00:00",
+  "command": [
+    "uv",
+    "run",
+    "python",
+    "run_all.py"
+  ],
+  "cwd": "simulation",
+  "runtime": {
+    "scope": "recorder",
+    "python": "3.12.4 (v3.12.4:8e8a4baf65, Jun  6 2024, 17:33:18) [Clang 13.0.0 (clang-1300.0.29.30)]",
+    "platform": "macOS-15.1-arm64-arm-64bit"
+  },
+  "execution_result": null,
+  "execution": {
+    "status": "PASS",
+    "exit_code": 0,
+    "detail": "command completed"
+  },
+  "input_scope": "execution-v1",
+  "additional_inputs": [],
+  "inputs": {
+    "simulation/figures.py": "6fd5a09b7e7b6f8b683f0c2119dfff01df85ec57bded8418da46d855ca377d57",
+    "simulation/pyproject.toml": "95270a606cfbf9e1c131e40cad5f18bc7e9464d0c8d25a348d9d4c9e53be948f",
+    "simulation/run_all.py": "0665ec79ee3d619c0c60e6d8929f044ab6a5de2dd3be99d817603916edf7984f",
+    "simulation/stratigraphy.py": "c34dcd0417be02890a8bf4bb4230a2179baa2462067ef888665a8cf3bdd19980",
+    "simulation/uv.lock": "d98100426b0c812aade63ee9eb807ac705316aca93221c7eb4b807eeb6572091"
+  },
+  "artifacts": {
+    "simulation/output/results.json": "9116ca19be1cd5400302f1421dcb8c66a937fc672286b1d35c86495ab9652ddc"
+  }
+}

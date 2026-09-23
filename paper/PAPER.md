@@ -14,7 +14,7 @@ The taxonomic boundary around *Homo sapiens* falls late in the history of human 
 
 ## 1. Introduction
 
-The oldest fossils usually placed near the base of the *Homo sapiens* clade come from Africa in the late Middle Pleistocene. The Jebel Irhoud material in Morocco, re-described by Hublin et al. (2017) and dated by Richter et al. (2017), is approximately 315,000 years old. Omo I, from the Omo Kibish Formation in Ethiopia, has a revised minimum age of 233,000 years (Vidal et al., 2022). Herto, from the Middle Awash, is later, at around 160,000 years ago (White et al., 2003). These dates spread the origin of the species across several African populations and morphologies.
+The oldest fossils usually placed near the base of the *Homo sapiens* clade come from Africa in the late Middle Pleistocene. The Jebel Irhoud material in Morocco, re-described by @hublin2017 and dated by @richter2017, is approximately 315,000 years old. Omo I, from the Omo Kibish Formation in Ethiopia, has a revised minimum age of 233,000 years [@vidal2022]. Herto, from the Middle Awash, is later, at around 160,000 years ago [@white2003]. These dates spread the origin of the species across several African populations and morphologies.
 
 The taxonomic label is useful: it allows fossils to be compared, regions to be sequenced, and lineages to be named. It also invites a compression of history, because the capacities later grouped under *H. sapiens* predate the point at which the label becomes stable. The species inherited a body plan older than the genus *Homo*, a technical history older than the earliest secure *Homo* fossils, and a social ecology shaped by cooperative foraging, infant dependency, and learned extraction of resources from difficult landscapes.
 
@@ -25,9 +25,9 @@ Before law, myth, ritual, or explicit doctrine can define persons, organisms mus
 
 ## 2. Bipedalism
 
-The hominin line appears in the record through posture well before cranial expansion. *Sahelanthropus tchadensis*, described from Chad and dated to about 7 million years ago (Brunet et al., 2002), remains contested, but the debate already concerns the position of the foramen magnum and the possibility of upright locomotion. *Ardipithecus ramidus*, at 4.4 million years ago, provides a clearer body, capable of bipedal movement on the ground and still strongly adapted to arboreal life (White et al., 2009). The starting condition was a mosaic animal in a mosaic habitat.
+The hominin line appears in the record through posture well before cranial expansion. *Sahelanthropus tchadensis*, described from Chad and dated to about 7 million years ago [@brunet2002], remains contested, but the debate already concerns the position of the foramen magnum and the possibility of upright locomotion. *Ardipithecus ramidus*, at 4.4 million years ago, provides a clearer body, capable of bipedal movement on the ground and still strongly adapted to arboreal life [@white2009]. The starting condition was a mosaic animal in a mosaic habitat.
 
-By the time of *Australopithecus afarensis*, between roughly 3.9 and 2.9 million years ago, bipedality was an established part of the hominin repertoire. The Laetoli footprints, dated to 3.66 million years ago, preserve upright walking in volcanic ash (Leakey & Hay, 1979). Lucy, at approximately 3.2 million years ago, shows the same through pelvis, knee, and lower limb. These hominins walked upright with brains far smaller than those of modern humans.
+By the time of *Australopithecus afarensis*, between roughly 3.9 and 2.9 million years ago, bipedality was an established part of the hominin repertoire. The Laetoli footprints, dated to 3.66 million years ago, preserve upright walking in volcanic ash [@leakey1979]. Lucy, at approximately 3.2 million years ago, shows the same through pelvis, knee, and lower limb. These hominins walked upright with brains far smaller than those of modern humans.
 
 Bipedality changed more than gait. Upright posture freed the hands from routine weight-bearing and allowed infants, food, stone, wood, and carcass parts to be carried over distance; it exposed the face and chest for social display and changed the thermal load of daytime movement. A bipedal ape can bring material to a place and take material away, so that resources collected in one location can be used later in another.
 
@@ -36,9 +36,9 @@ The sequence matters. The upright body precedes large brains by millions of year
 
 ## 3. Stone tools before secure *Homo*
 
-The oldest widely discussed sharp-edged stone tools come from Lomekwi 3 in West Turkana, Kenya, dated to 3.3 million years ago (Harmand et al., 2015). They precede the earliest secure *Homo* fossils by several hundred thousand years, and their makers are unknown. Stone-flake production therefore begins without any secure association with the genus that later took the name human.
+The oldest widely discussed sharp-edged stone tools come from Lomekwi 3 in West Turkana, Kenya, dated to 3.3 million years ago [@harmand2015]. They precede the earliest secure *Homo* fossils by several hundred thousand years, and their makers are unknown. Stone-flake production therefore begins without any secure association with the genus that later took the name human.
 
-Oldowan technology appears later and spreads more widely. Gona in Ethiopia yields Oldowan assemblages from about 2.6 million years ago (Semaw et al., 1997). Nyayanga in Kenya, dated to between approximately 3.0 and 2.6 million years ago, associates Oldowan artifacts with hippopotamus butchery and *Paranthropus* teeth (Plummer et al., 2023). Early stone technology thus had several possible makers.
+Oldowan technology appears later and spreads more widely. Gona in Ethiopia yields Oldowan assemblages from about 2.6 million years ago [@semaw1997]. Nyayanga in Kenya, dated to between approximately 3.0 and 2.6 million years ago, associates Oldowan artifacts with hippopotamus butchery and *Paranthropus* teeth [@plummer2023]. Early stone technology thus had several possible makers.
 
 A flake is a produced edge, obtained by controlling angle, force, material, and sequence. The knapper must anticipate a cutting surface inside an unstruck core. The skill can be learned, repeated, and transmitted, so that even a simple tool rests on a tradition longer than any single act of manufacture, maintained across individuals.
 
@@ -51,18 +51,18 @@ The archaeological object records the interaction of hand, material, food, lands
 
 The genus *Homo* enters the record in a taxonomically unsettled state. Fossils assigned to *Homo habilis*, *Homo rudolfensis*, early African *Homo erectus* or *Homo ergaster*, and other debated forms group differently depending on whether jaw, tooth, cranial, or postcranial traits are weighted. Brain size and body size increase unevenly. Species names mark clusters in a fragmentary record and do not describe a linear progression.
 
-By roughly 1.8 million years ago early *Homo* populations had left Africa and reached Dmanisi in Georgia (Lordkipanidze et al., 2013). The Dmanisi fossils combine small brains, variable skull form, and stone tools, and their location shows that hominins had entered western Eurasia before the later human suite of traits existed.
+By roughly 1.8 million years ago early *Homo* populations had left Africa and reached Dmanisi in Georgia [@lordkipanidze2013]. The Dmanisi fossils combine small brains, variable skull form, and stone tools, and their location shows that hominins had entered western Eurasia before the later human suite of traits existed.
 
-*Homo erectus* is the longest-lasting lineage in this record. African and Eurasian populations assigned to *H. erectus* or closely related forms persisted over a very long span of time and space. The Nariokotome skeleton, about 1.5 million years old, has long legs and a body plan suited to covering distance (Brown et al., 1985). The species complex reached Java, China, the Caucasus, and Africa. For most of the period in which hominins were human in the wider sense used here, a form similar to *H. erectus* was the principal representative.
+*Homo erectus* is the longest-lasting lineage in this record. African and Eurasian populations assigned to *H. erectus* or closely related forms persisted over a very long span of time and space. The Nariokotome skeleton, about 1.5 million years old, has long legs and a body plan suited to covering distance [@brown1985]. The species complex reached Java, China, the Caucasus, and Africa. For most of the period in which hominins were human in the wider sense used here, a form similar to *H. erectus* was the principal representative.
 
-Acheulean technology, present by 1.76 million years ago at Kokiselei in Kenya (Lepre et al., 2011), is the most visible artifact of this expansion. The handaxe is a portable symmetrical form reproduced across large distances and long periods. Its uses varied, and its stability is more informative than any single function. Making a biface requires maintaining a planned shape through a sequence of removals, so the tool records planning carried out by subtraction.
+Acheulean technology, present by 1.76 million years ago at Kokiselei in Kenya [@lepre2011], is the most visible artifact of this expansion. The handaxe is a portable symmetrical form reproduced across large distances and long periods. Its uses varied, and its stability is more informative than any single function. Making a biface requires maintaining a planned shape through a sequence of removals, so the tool records planning carried out by subtraction.
 
 Continental dispersal was a technical and social achievement. Moving across Africa and Eurasia meant making unfamiliar prey, raw materials, seasons, predators, parasites, and climates usable. Anatomy contributed, and learned ecological knowledge made the expanded range durable. A group needed to know where water could be found, which stone would fracture well, how carcasses could be opened, when travel was possible, how infants could survive it, and how to recognise danger. Hominins before *H. sapiens* already learned geography.
 
 
 ## 5. Fire use and maintenance
 
-Fire is the hardest major capacity to date, because its traces are fragile and natural burning must be distinguished from controlled use. At Wonderwerk Cave in South Africa, Berna et al. (2012) report in situ burning inside the cave at roughly 1 million years ago. The inference of controlled use rests on the microstratigraphy: burned bone and ashed plant matter lie in undisturbed layers deep inside the cave, beyond the reach of wildfire and lightning. Several European and Near Eastern sites provide later and stronger evidence of repeated fire use, and by the later Middle Pleistocene fire was a secure part of hominin life in many regions.
+Fire is the hardest major capacity to date, because its traces are fragile and natural burning must be distinguished from controlled use. At Wonderwerk Cave in South Africa, @berna2012 report in situ burning inside the cave at roughly 1 million years ago. The inference of controlled use rests on the microstratigraphy: burned bone and ashed plant matter lie in undisturbed layers deep inside the cave, beyond the reach of wildfire and lightning. Several European and Near Eastern sites provide later and stronger evidence of repeated fire use, and by the later Middle Pleistocene fire was a secure part of hominin life in many regions.
 
 The presence of fire and its control must be kept separate. Burned bone alone is weak evidence for hearth-centred domestic life, and a hearth alone is weak evidence that cooking was universal. The conservative claim is already substantial: before *Homo sapiens*, some hominin groups brought fire into occupied spaces, kept it, and used it in ways that changed food, space, and the use of time.
 
@@ -77,7 +77,7 @@ Later societies embedded fire in cosmology, sacrifice, metallurgy, cooking, dome
 
 Large prey changes the social problem. Cut-marked bones, marrow extraction, hunting lesions, and kill or scavenging sites seldom distinguish hunting from aggressive scavenging cleanly, and the distinction matters less than the coordination either requires. Meat from a large animal is dangerous to obtain, heavy to move, divisible among many individuals, and perishable, so a carcass creates a short-lived economy of its own.
 
-The Schöningen spears, redated to around 200,000 years ago (Hutson et al., 2025; originally described by Thieme, 1997), show that hominins in Europe before *H. sapiens* made carefully shaped wooden weapons. The spears are usually attributed to archaic humans of the Neanderthal lineage or a closely related Middle Pleistocene population. Their preservation is exceptional, because wood rarely survives, and their existence implies a larger lost inventory of organic tools: digging sticks, carrying devices, handles, shafts, traps, and containers.
+The Schöningen spears, redated to around 200,000 years ago [@hutson2025; originally described by @thieme1997], show that hominins in Europe before *H. sapiens* made carefully shaped wooden weapons. The spears are usually attributed to archaic humans of the Neanderthal lineage or a closely related Middle Pleistocene population. Their preservation is exceptional, because wood rarely survives, and their existence implies a larger lost inventory of organic tools: digging sticks, carrying devices, handles, shafts, traps, and containers.
 
 Such objects imply teaching. Complex wooden weapons require selection of raw material, shaping, balancing, and practice in use; stone knapping requires managed failure; fire requires maintenance. Children in these groups inherited capacities through more than genes. They grew up in an environment structured by adult practice and acquired it through demonstration, correction, imitation, tolerance, and play.
 
@@ -88,11 +88,11 @@ Social transmission is visible even where symbols are absent. Teaching produces 
 
 ## 7. Contemporary hominin lineages
 
-*Homo sapiens* emerged into a world already occupied by other humans. Neanderthal-lineage populations were established in Europe and western Asia. Sima de los Huesos in Spain, dated to around 430,000 years ago, has yielded a large Middle Pleistocene assemblage that is genetically closer to Neanderthals than to Denisovans (Meyer et al., 2016). Denisovans, first identified from DNA in a small bone from Denisova Cave (Reich et al., 2010), had a population history in eastern Eurasia that fossil morphology had scarcely registered.
+*Homo sapiens* emerged into a world already occupied by other humans. Neanderthal-lineage populations were established in Europe and western Asia. Sima de los Huesos in Spain, dated to around 430,000 years ago, has yielded a large Middle Pleistocene assemblage that is genetically closer to Neanderthals than to Denisovans [@meyer2016]. Denisovans, first identified from DNA in a small bone from Denisova Cave [@reich2010], had a population history in eastern Eurasia that fossil morphology had scarcely registered.
 
-Other lineages complicate the picture further. *Homo naledi*, from Rising Star Cave in South Africa, is dated to between 335,000 and 236,000 years ago (Dirks et al., 2017) and was thus contemporary with early *H. sapiens* in Africa despite its small brain and unexpected morphology. *Homo floresiensis* survived on Flores until roughly 50,000 years ago, with roots that may extend much deeper into the history of island Southeast Asia. *Homo luzonensis*, described from Callao Cave in the Philippines and dated to at least 67,000 years ago for one element (Détroit et al., 2019), adds another island lineage with a mosaic of traits.
+Other lineages complicate the picture further. *Homo naledi*, from Rising Star Cave in South Africa, is dated to between 335,000 and 236,000 years ago [@dirks2017] and was thus contemporary with early *H. sapiens* in Africa despite its small brain and unexpected morphology. *Homo floresiensis* survived on Flores until roughly 50,000 years ago, with roots that may extend much deeper into the history of island Southeast Asia. *Homo luzonensis*, described from Callao Cave in the Philippines and dated to at least 67,000 years ago for one element [@detroit2019], adds another island lineage with a mosaic of traits.
 
-Ancient DNA changed the understanding of this period. Green et al. (2010) showed that Neanderthals contributed DNA to the ancestors of present-day non-African populations, amounting to a few percent of the genome in living people outside Africa. Reich et al. (2010) showed that Denisovans were a distinct archaic group whose ancestry survives especially in parts of Oceania and Asia. Later work identified further episodes of introgression among Neanderthals, Denisovans, and modern humans. The human tree in this period is reticulate, with branches that sometimes rejoin.
+Ancient DNA changed the understanding of this period. @green2010 showed that Neanderthals contributed DNA to the ancestors of present-day non-African populations, amounting to a few percent of the genome in living people outside Africa. @reich2010 showed that Denisovans were a distinct archaic group whose ancestry survives especially in parts of Oceania and Asia. Later work identified further episodes of introgression among Neanderthals, Denisovans, and modern humans. The human tree in this period is reticulate, with branches that sometimes rejoin.
 
 Species boundaries in the hominin record are sharp enough for taxonomy and permeable enough for ancestry. Anatomical difference, cultural difference, and reproductive separation coincided only imperfectly. Some groups diverged, adapted locally, met again, exchanged genes, and disappeared as recognisable populations while leaving traces in their descendants.
 
@@ -101,7 +101,7 @@ Restricting the word "human" to *Homo sapiens* obscures this structure. Neandert
 
 ## 8. The emergence of *Homo sapiens* in Africa
 
-The emergence of *Homo sapiens* was a population process that extended across Africa. Jebel Irhoud combines a modern-looking face with other archaic features, and Omo I and Herto lie in eastern Africa. Genetic and archaeological evidence increasingly favours structured African populations linked by intermittent gene flow, ecological change, and regional cultural variation. Scerri et al. (2018) describe this as an origin in subdivided populations, with the explanatory weight placed on population structure across regions.
+The emergence of *Homo sapiens* was a population process that extended across Africa. Jebel Irhoud combines a modern-looking face with other archaic features, and Omo I and Herto lie in eastern Africa. Genetic and archaeological evidence increasingly favours structured African populations linked by intermittent gene flow, ecological change, and regional cultural variation. @scerri2018 describe this as an origin in subdivided populations, with the explanatory weight placed on population structure across regions.
 
 The transition to *sapiens* brought older capacities together under a new population regime. Upright bodies, manipulative hands, stone working, fire, cooperative foraging, teaching, and long-distance ranging were inherited. What changed was the density and flexibility with which they were recombined. The African Middle Stone Age shows regional technologies, prepared-core methods, hafting, pigments, beads, long-distance movement of materials, and broad ecological range, so that older capacities could now be combined in more varied ways.
 
@@ -125,7 +125,7 @@ Later cultural categories rest on this older foundation of bodies that carry, ha
 
 ## 10. Quantified stratigraphy
 
-The chronological claim can be stated numerically. We consider eight capacities with a single securely dated first appearance in the record reviewed above: bipedal locomotion, stone-flake production, large-animal butchery, Oldowan technology, continental dispersal, the Acheulean biface, controlled fire, and wooden weapons. Capacities without one defensible onset date, among them symbolic marking and habitual cooking, are excluded. For ranges, the midpoint is used (Nyayanga, 3.0 to 2.6 million years, enters as 2.8). Taking the earliest securely dated marker of each capacity, and the Jebel Irhoud date of 315,000 years as the sapiens boundary, seven of the eight capacities predate the boundary. Against the Omo I minimum of 233,000 years, the count is again seven of eight. The exception is wooden weapon manufacture, whose Schöningen instance was redated in 2025 to around 200,000 years (Hutson et al., 2025), after both Jebel Irhoud and Omo I; the late date reflects the rarity of preserved wood and is weak evidence for a late onset.
+The chronological claim can be stated numerically. We consider eight capacities with a single securely dated first appearance in the record reviewed above: bipedal locomotion, stone-flake production, large-animal butchery, Oldowan technology, continental dispersal, the Acheulean biface, controlled fire, and wooden weapons. Capacities without one defensible onset date, among them symbolic marking and habitual cooking, are excluded. For ranges, the midpoint is used (Nyayanga, 3.0 to 2.6 million years, enters as 2.8). Taking the earliest securely dated marker of each capacity, and the Jebel Irhoud date of 315,000 years as the sapiens boundary, seven of the eight capacities predate the boundary. Against the Omo I minimum of 233,000 years, the count is again seven of eight. The exception is wooden weapon manufacture, whose Schöningen instance was redated in 2025 to around 200,000 years [@hutson2025], after both Jebel Irhoud and Omo I; the late date reflects the rarity of preserved wood and is weak evidence for a late onset.
 
 The leads are large. Bipedal locomotion, the deepest capacity in the set, precedes the boundary by 4.085 million years. The eight onsets span 4.2 million years from upright walking to shaped wooden spears, and the median lead over the boundary is 1.885 million years. Stone-flake production at Lomekwi precedes the earliest secure *Homo*, and continental dispersal at Dmanisi precedes the boundary by close to 1.5 million years. The ordering matches the sequence described in sections 2 to 6: upright bodies, then worked stone, then large-animal butchery, then dispersal, then fire, then the species boundary, with the single securely dated wooden weapon falling later because wood seldom survives.
 
@@ -149,47 +149,3 @@ The capability onsets, boundary dates, and contemporary lineages are listed with
 
 
 ## References
-
-Berna, F., Goldberg, P., Horwitz, L. K., Brink, J., Holt, S., Bamford, M., & Chazan, M. (2012). Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa. *Proceedings of the National Academy of Sciences*, 109(20), E1215--E1220.
-
-Brunet, M. et al. (2002). A new hominid from the Upper Miocene of Chad, Central Africa. *Nature*, 418, 145--151.
-
-Brown, F., Harris, J., Leakey, R., & Walker, A. (1985). Early *Homo erectus* skeleton from west Lake Turkana, Kenya. *Nature*, 316, 788--792.
-
-Détroit, F., et al. (2019). A new species of *Homo* from the Late Pleistocene of the Philippines. *Nature*, 568, 181--186.
-
-Dirks, P. H. G. M. et al. (2017). The age of *Homo naledi* and associated sediments in the Rising Star Cave, South Africa. *eLife*, 6, e24231.
-
-Green, R. E. et al. (2010). A draft sequence of the Neandertal genome. *Science*, 328(5979), 710--722.
-
-Harmand, S. et al. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. *Nature*, 521, 310--315.
-
-Hublin, J.-J. et al. (2017). New fossils from Jebel Irhoud, Morocco and the pan-African origin of *Homo sapiens*. *Nature*, 546, 289--292.
-
-Hutson, J. M. et al. (2025). Revised age for Schoningen hunting spears indicates intensification of Neanderthal cooperative behavior around 200,000 years ago. *Science Advances*, 11(19), eadv0752.
-
-Lepre, C. J. et al. (2011). An earlier origin for the Acheulian. *Nature*, 477, 82--85.
-
-Leakey, M., & Hay, R. L. (1979). Pliocene footprints in the Laetolil Beds at Laetoli, northern Tanzania. *Nature*, 278, 317--323.
-
-Lordkipanidze, D., Ponce de Leon, M. S., Margvelashvili, A., Rak, Y., Rightmire, G. P., Vekua, A., & Zollikofer, C. P. E. (2013). A complete skull from Dmanisi, Georgia, and the evolutionary biology of early *Homo*. *Science*, 342(6156), 326--331.
-
-Meyer, M. et al. (2016). Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins. *Nature*, 531, 504--507.
-
-Plummer, T. W. et al. (2023). Expanded geographic distribution and dietary strategies of the earliest Oldowan hominins and *Paranthropus*. *Science*, 379, 561--566.
-
-Reich, D. et al. (2010). Genetic history of an archaic hominin group from Denisova Cave in Siberia. *Nature*, 468, 1053--1060.
-
-Richter, D. et al. (2017). The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone Age. *Nature*, 546, 293--296.
-
-Scerri, E. M. L. et al. (2018). Did our species evolve in subdivided populations across Africa, and why does it matter? *Trends in Ecology & Evolution*, 33(8), 582--594.
-
-Semaw, S. et al. (1997). 2.5-million-year-old stone tools from Gona, Ethiopia. *Nature*, 385, 333--336.
-
-Thieme, H. (1997). Lower Palaeolithic hunting spears from Germany. *Nature*, 385, 807--810.
-
-Vidal, C. M. et al. (2022). Age of the oldest known *Homo sapiens* from eastern Africa. *Nature*, 601, 579--583.
-
-White, T. D. et al. (2003). Pleistocene *Homo sapiens* from Middle Awash, Ethiopia. *Nature*, 423, 742--747.
-
-White, T. D., Asfaw, B., Beyene, Y., Haile-Selassie, Y., Lovejoy, C. O., Suwa, G., & WoldeGabriel, G. (2009). *Ardipithecus ramidus* and the paleobiology of early hominids. *Science*, 326(5949), 64--86.

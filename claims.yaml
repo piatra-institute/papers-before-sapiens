@@ -1,0 +1,512 @@
+schema: 1
+coverage: reviewed
+reviewed_manuscript_sha256: 83b0cb9fb1f061cd08397799959a1fbe744c2b8d3a5936a3ae404519be95f97d
+claims:
+- id: abs-ji
+  kind: computation
+  passage: Fossils from Jebel Irhoud place early members of the clade, or a population close to it, at
+    about 315,000 years ago, and Omo I gives a minimum age of 233,000 years for eastern Africa.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /sapiens_boundary_Ma/jebel_irhoud
+    reported: 315,000
+    units: years before present
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: abs-omo
+  kind: computation
+  passage: Fossils from Jebel Irhoud place early members of the clade, or a population close to it, at
+    about 315,000 years ago, and Omo I gives a minimum age of 233,000 years for eastern Africa.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /sapiens_boundary_Ma/omo_i
+    reported: 233,000
+    units: years before present (minimum)
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: abs-bip-lead
+  kind: computation
+  passage: Bipedal locomotion precedes the Jebel Irhoud boundary by 4.085 million years, the eight onsets
+    span 4.2 million years, and the median lead is 1.885 million years.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /capabilities/0/lead_before_boundary_Ma
+    reported: '4.085'
+    units: million years
+    conditions: onset and boundary dates taken from the cited literature (simulation/stratigraphy.py);
+      Jebel Irhoud 0.315 Ma as boundary
+    decimals: 3
+- id: abs-span
+  kind: computation
+  passage: Bipedal locomotion precedes the Jebel Irhoud boundary by 4.085 million years, the eight onsets
+    span 4.2 million years, and the median lead is 1.885 million years.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /summary/capability_span_Ma
+    reported: '4.2'
+    units: million years
+    conditions: onset and boundary dates taken from the cited literature (simulation/stratigraphy.py);
+      Jebel Irhoud 0.315 Ma as boundary
+    decimals: 1
+- id: abs-median
+  kind: computation
+  passage: Bipedal locomotion precedes the Jebel Irhoud boundary by 4.085 million years, the eight onsets
+    span 4.2 million years, and the median lead is 1.885 million years.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /summary/median_lead_Ma
+    reported: '1.885'
+    units: million years
+    conditions: onset and boundary dates taken from the cited literature (simulation/stratigraphy.py);
+      Jebel Irhoud 0.315 Ma as boundary
+    decimals: 3
+- id: abs-seven
+  kind: interpretation
+  passage: Seven of the eight predate both Jebel Irhoud and Omo I; the exception, wooden weapons, is known
+    from a single site where wood happened to survive.
+  rationale: 'Word-form counts from results.json: /summary/n_capabilities = 8, /summary/n_predating_jebel_irhoud
+    = 7, /summary/n_predating_omo_i = 7; the exception (/capabilities/7, wooden weapons, 0.2 Ma) has predates_jebel_irhoud
+    and predates_omo_i false.'
+- id: abs-five
+  kind: interpretation
+  passage: At least five other hominin lineages are dated near the boundary.
+  rationale: 'Word-form count: /summary/n_contemporary_lineages = 5 in results.json (Sima de los Huesos,
+    H. naledi, Denisovans, H. luzonensis, H. floresiensis).'
+- id: intro-ji
+  kind: computation
+  passage: The Jebel Irhoud material in Morocco, re-described by @hublin2017 and dated by @richter2017,
+    is approximately 315,000 years old.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /sapiens_boundary_Ma/jebel_irhoud
+    reported: 315,000
+    units: years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: intro-omo
+  kind: computation
+  passage: Omo I, from the Omo Kibish Formation in Ethiopia, has a revised minimum age of 233,000 years
+    [@vidal2022].
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /sapiens_boundary_Ma/omo_i
+    reported: 233,000
+    units: years (minimum)
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: intro-herto
+  kind: computation
+  passage: Herto, from the Middle Awash, is later, at around 160,000 years ago [@white2003].
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /sapiens_boundary_Ma/herto
+    reported: 160,000
+    units: years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: s10-ji
+  kind: computation
+  passage: Taking the earliest securely dated marker of each capacity, and the Jebel Irhoud date of 315,000
+    years as the sapiens boundary, seven of the eight capacities predate the boundary.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /sapiens_boundary_Ma/jebel_irhoud
+    reported: 315,000
+    units: years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: s10-omo
+  kind: computation
+  passage: Against the Omo I minimum of 233,000 years, the count is again seven of eight.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /sapiens_boundary_Ma/omo_i
+    reported: 233,000
+    units: years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: s10-nyayanga
+  kind: computation
+  passage: For ranges, the midpoint is used (Nyayanga, 3.0 to 2.6 million years, enters as 2.8).
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /capabilities/2/first_appearance_Ma
+    reported: '2.8'
+    units: million years (midpoint of 3.0-2.6)
+    conditions: literature date as entered in simulation/stratigraphy.py
+    decimals: 1
+- id: s10-seven
+  kind: interpretation
+  passage: Taking the earliest securely dated marker of each capacity, and the Jebel Irhoud date of 315,000
+    years as the sapiens boundary, seven of the eight capacities predate the boundary.
+  rationale: 'Word-form count: /summary/n_predating_jebel_irhoud = 7 of /summary/n_capabilities = 8 in
+    results.json.'
+- id: s10-seven-omo
+  kind: interpretation
+  passage: Against the Omo I minimum of 233,000 years, the count is again seven of eight.
+  rationale: 'Word-form count: /summary/n_predating_omo_i = 7 of 8 in results.json.'
+- id: s10-spears
+  kind: computation
+  passage: The exception is wooden weapon manufacture, whose Schöningen instance was redated in 2025 to
+    around 200,000 years [@hutson2025], after both Jebel Irhoud and Omo I; the late date reflects the
+    rarity of preserved wood and is weak evidence for a late onset.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /capabilities/7/first_appearance_Ma
+    reported: 200,000
+    units: years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: s10-bip-lead
+  kind: computation
+  passage: Bipedal locomotion, the deepest capacity in the set, precedes the boundary by 4.085 million
+    years.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /summary/deepest_lead_Ma
+    reported: '4.085'
+    units: million years
+    conditions: onset and boundary dates taken from the cited literature (simulation/stratigraphy.py);
+      Jebel Irhoud 0.315 Ma as boundary
+    decimals: 3
+- id: s10-span
+  kind: computation
+  passage: The eight onsets span 4.2 million years from upright walking to shaped wooden spears, and the
+    median lead over the boundary is 1.885 million years.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /summary/capability_span_Ma
+    reported: '4.2'
+    units: million years
+    conditions: onset and boundary dates taken from the cited literature (simulation/stratigraphy.py);
+      Jebel Irhoud 0.315 Ma as boundary
+    decimals: 1
+- id: s10-median
+  kind: computation
+  passage: The eight onsets span 4.2 million years from upright walking to shaped wooden spears, and the
+    median lead over the boundary is 1.885 million years.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /summary/median_lead_Ma
+    reported: '1.885'
+    units: million years
+    conditions: onset and boundary dates taken from the cited literature (simulation/stratigraphy.py);
+      Jebel Irhoud 0.315 Ma as boundary
+    decimals: 3
+- id: s10-dmanisi
+  kind: computation
+  passage: Stone-flake production at Lomekwi precedes the earliest secure *Homo*, and continental dispersal
+    at Dmanisi precedes the boundary by close to 1.5 million years.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /capabilities/4/lead_before_boundary_Ma
+    reported: '1.5'
+    units: million years
+    conditions: onset and boundary dates taken from the cited literature (simulation/stratigraphy.py);
+      Jebel Irhoud 0.315 Ma as boundary
+    decimals: 1
+- id: s10-sima
+  kind: computation
+  passage: At least five other hominin lineages are dated near the boundary, from the Neanderthal-lineage
+    population at Sima de los Huesos at about 430,000 years through *Homo naledi*, the Denisovans, *Homo
+    luzonensis*, and *Homo floresiensis*.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /contemporary_lineages/0/date_Ma
+    reported: 430,000
+    units: years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: in-sahel
+  kind: computation
+  passage: '*Sahelanthropus tchadensis*, described from Chad and dated to about 7 million years ago [@brunet2002],
+    remains contested, but the debate already concerns the position of the foramen magnum and the possibility
+    of upright locomotion.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /chronology_Ma/0/date_Ma
+    reported: '7'
+    units: million years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    decimals: 0
+- id: in-ardi
+  kind: computation
+  passage: '*Ardipithecus ramidus*, at 4.4 million years ago, provides a clearer body, capable of bipedal
+    movement on the ground and still strongly adapted to arboreal life [@white2009].'
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /capabilities/0/first_appearance_Ma
+    reported: '4.4'
+    units: million years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    decimals: 1
+- id: in-laetoli
+  kind: computation
+  passage: The Laetoli footprints, dated to 3.66 million years ago, preserve upright walking in volcanic
+    ash [@leakey1979].
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /chronology_Ma/3/date_Ma
+    reported: '3.66'
+    units: million years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    decimals: 2
+- id: in-lomekwi
+  kind: computation
+  passage: The oldest widely discussed sharp-edged stone tools come from Lomekwi 3 in West Turkana, Kenya,
+    dated to 3.3 million years ago [@harmand2015].
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /capabilities/1/first_appearance_Ma
+    reported: '3.3'
+    units: million years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    decimals: 1
+- id: in-gona
+  kind: computation
+  passage: Gona in Ethiopia yields Oldowan assemblages from about 2.6 million years ago [@semaw1997].
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /capabilities/3/first_appearance_Ma
+    reported: '2.6'
+    units: million years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    decimals: 1
+- id: in-dmanisi
+  kind: computation
+  passage: By roughly 1.8 million years ago early *Homo* populations had left Africa and reached Dmanisi
+    in Georgia [@lordkipanidze2013].
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /capabilities/4/first_appearance_Ma
+    reported: '1.8'
+    units: million years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    decimals: 1
+- id: in-kokiselei
+  kind: computation
+  passage: Acheulean technology, present by 1.76 million years ago at Kokiselei in Kenya [@lepre2011],
+    is the most visible artifact of this expansion.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /capabilities/5/first_appearance_Ma
+    reported: '1.76'
+    units: million years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    decimals: 2
+- id: in-nariokotome
+  kind: computation
+  passage: The Nariokotome skeleton, about 1.5 million years old, has long legs and a body plan suited
+    to covering distance [@brown1985].
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /chronology_Ma/10/date_Ma
+    reported: '1.5'
+    units: million years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    decimals: 1
+- id: in-wonderwerk
+  kind: computation
+  passage: At Wonderwerk Cave in South Africa, @berna2012 report in situ burning inside the cave at roughly
+    1 million years ago.
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /capabilities/6/first_appearance_Ma
+    reported: '1'
+    units: million years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    decimals: 0
+- id: in-sima
+  kind: computation
+  passage: Sima de los Huesos in Spain, dated to around 430,000 years ago, has yielded a large Middle
+    Pleistocene assemblage that is genetically closer to Neanderthals than to Denisovans [@meyer2016].
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /contemporary_lineages/0/date_Ma
+    reported: 430,000
+    units: years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: in-luzon
+  kind: computation
+  passage: '*Homo luzonensis*, described from Callao Cave in the Philippines and dated to at least 67,000
+    years ago for one element [@detroit2019], adds another island lineage with a mosaic of traits.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /contemporary_lineages/3/date_Ma
+    reported: 67,000
+    units: years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: in-flores
+  kind: computation
+  passage: '*Homo floresiensis* survived on Flores until roughly 50,000 years ago, with roots that may
+    extend much deeper into the history of island Southeast Asia.'
+  evidence:
+    file: simulation/output/results.json
+    run_id: before-sapiens
+    pointer: /contemporary_lineages/4/date_Ma
+    reported: 50,000
+    units: years
+    conditions: literature date as entered in simulation/stratigraphy.py
+    scale: 1000000
+    decimals: 0
+- id: vidal-omo
+  kind: source
+  passage: Omo I, from the Omo Kibish Formation in Ethiopia, has a revised minimum age of 233,000 years
+    [@vidal2022].
+  evidence:
+    citation_id: vidal2022
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1038/s41586-021-04275-8; the Crossref abstract reports a new minimum age
+      for the Omo fossils of 233 +/- 22 kyr.
+- id: berna-fire
+  kind: source
+  passage: At Wonderwerk Cave in South Africa, @berna2012 report in situ burning inside the cave at roughly
+    1 million years ago.
+  evidence:
+    citation_id: berna2012
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1073/pnas.1117620109; the Crossref abstract reports micromorphological and
+      FTIR evidence of burned bone and ashed plant remains, burning in the cave during the early Acheulean
+      at approximately 1.0 Ma.
+- id: hutson-spears
+  kind: source
+  passage: The Schöningen spears, redated to around 200,000 years ago [@hutson2025; originally described
+    by @thieme1997], show that hominins in Europe before *H. sapiens* made carefully shaped wooden weapons.
+  evidence:
+    citation_id: hutson2025
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1126/sciadv.adv0752; the Crossref abstract places the Schöningen spears
+      at ~200,000 years using amino acid geochronology, within Middle Paleolithic Neanderthal contexts.
+- id: plummer-nyayanga
+  kind: source
+  passage: Nyayanga in Kenya, dated to between approximately 3.0 and 2.6 million years ago, associates
+    Oldowan artifacts with hippopotamus butchery and *Paranthropus* teeth [@plummer2023].
+  evidence:
+    citation_id: plummer2023
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1126/science.abo7452; the Crossref abstract dates Nyayanga to 3.032-2.581
+      Ma, reports two hippopotamid butchery sites and Paranthropus teeth.
+- id: dirks-naledi
+  kind: source
+  passage: '*Homo naledi*, from Rising Star Cave in South Africa, is dated to between 335,000 and 236,000
+    years ago [@dirks2017] and was thus contemporary with early *H. sapiens* in Africa despite its small
+    brain and unexpected morphology.'
+  evidence:
+    citation_id: dirks2017
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.7554/eLife.24231; the Crossref abstract constrains the depositional age
+      of Homo naledi to between 236 ka and 335 ka.
+- id: reich-denisova
+  kind: source
+  passage: '@reich2010 showed that Denisovans were a distinct archaic group whose ancestry survives especially
+    in parts of Oceania and Asia.'
+  evidence:
+    citation_id: reich2010
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1038/nature09710; the abstract (OpenAlex) reports a genome from a Denisova
+      Cave finger bone, a group sharing a common origin with Neanderthals and contributing 4-6% of the
+      genomes of present-day Melanesians.
+- id: scerri-subdivided
+  kind: source
+  passage: '@scerri2018 describe this as an origin in subdivided populations, with the explanatory weight
+    placed on population structure across regions.'
+  evidence:
+    citation_id: scerri2018
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1016/j.tree.2018.05.005; the abstract (OpenAlex) argues for a highly structured
+      African prehistory with morphologically varied H. sapiens-clade populations across Africa.
+- id: white-ardi
+  kind: source
+  passage: '*Ardipithecus ramidus*, at 4.4 million years ago, provides a clearer body, capable of bipedal
+    movement on the ground and still strongly adapted to arboreal life [@white2009].'
+  evidence:
+    citation_id: white2009
+    locator: Abstract
+    verified: true
+    verification_note: DOI 10.1126/science.1175802; the Crossref abstract describes 4.4-million-year-old
+      Ar. ramidus combining arboreal clambering and careful climbing with a primitive form of terrestrial
+      bipedality.
+- id: def-human
+  kind: definition
+  passage: 'The term here designates a field of lineages: the hominin bodies, techniques, social arrangements,
+    and inherited niches through which *H. sapiens* later became possible.'
+  rationale: Stipulative widening of "human" to the hominin field; the argument depends on it and states
+    that species differences remain real.
+- id: assume-onsets
+  kind: assumption
+  passage: Capacities without one defensible onset date, among them symbolic marking and habitual cooking,
+    are excluded.
+  rationale: Selection rule for the stratigraphy; including capacities with contested onsets would change
+    the counts.
+- id: assume-point
+  kind: assumption
+  passage: The dates are point estimates taken from the cited literature; no new measurements are reported.
+  rationale: States that the computation adds no data; its outputs are stratigraphic relations among literature
+    dates.
+- id: interp-spears
+  kind: interpretation
+  passage: The exception is wooden weapon manufacture, whose Schöningen instance was redated in 2025 to
+    around 200,000 years [@hutson2025], after both Jebel Irhoud and Omo I; the late date reflects the
+    rarity of preserved wood and is weak evidence for a late onset.
+  rationale: Taphonomic reading of the single exception in the count.
+- id: interp-package
+  kind: interpretation
+  passage: The emergence of *sapiens* is best described as the stabilisation of a package.
+  rationale: Central interpretive conclusion drawn from the chronology and from the structured-population
+    account.
+- id: interp-narrowed
+  kind: interpretation
+  passage: The diversity of human lineages narrowed late.
+  rationale: Summary of the contemporaneity and introgression evidence of section 7.
+runs:
+- id: before-sapiens
+  required: true
+  record: verification/before-sapiens.json

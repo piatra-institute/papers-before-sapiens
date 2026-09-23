@@ -1,0 +1,222 @@
+[
+ {
+  "id": "berna2012",
+  "families": [
+   "Berna",
+   "Goldberg",
+   "Horwitz",
+   "Brink",
+   "Holt",
+   "Bamford",
+   "Chazan"
+  ],
+  "authors_text": "Berna, F., Goldberg, P., Horwitz, L. K., Brink, J., Holt, S., Bamford, M., & Chazan, M.",
+  "year": "2012",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "brunet2002",
+  "families": [
+   "Brunet"
+  ],
+  "authors_text": "Brunet, M. et al.",
+  "year": "2002",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "brown1985",
+  "families": [
+   "Brown",
+   "Harris",
+   "Leakey",
+   "Walker"
+  ],
+  "authors_text": "Brown, F., Harris, J., Leakey, R., & Walker, A.",
+  "year": "1985",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "detroit2019",
+  "families": [
+   "Détroit"
+  ],
+  "authors_text": "Détroit, F., et al.",
+  "year": "2019",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "dirks2017",
+  "families": [
+   "Dirks"
+  ],
+  "authors_text": "Dirks, P. H. G. M. et al.",
+  "year": "2017",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "green2010",
+  "families": [
+   "Green"
+  ],
+  "authors_text": "Green, R. E. et al.",
+  "year": "2010",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "harmand2015",
+  "families": [
+   "Harmand"
+  ],
+  "authors_text": "Harmand, S. et al.",
+  "year": "2015",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "hublin2017",
+  "families": [
+   "Hublin"
+  ],
+  "authors_text": "Hublin, J.-J. et al.",
+  "year": "2017",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "hutson2025",
+  "families": [
+   "Hutson"
+  ],
+  "authors_text": "Hutson, J. M. et al.",
+  "year": "2025",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "lepre2011",
+  "families": [
+   "Lepre"
+  ],
+  "authors_text": "Lepre, C. J. et al.",
+  "year": "2011",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "leakey1979",
+  "families": [
+   "Leakey",
+   "Hay"
+  ],
+  "authors_text": "Leakey, M., & Hay, R. L.",
+  "year": "1979",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "lordkipanidze2013",
+  "families": [
+   "Lordkipanidze",
+   "Ponce de Leon",
+   "Margvelashvili",
+   "Rak",
+   "Rightmire",
+   "Vekua",
+   "Zollikofer"
+  ],
+  "authors_text": "Lordkipanidze, D., Ponce de Leon, M. S., Margvelashvili, A., Rak, Y., Rightmire, G. P., Vekua, A., & Zollikofer, C. P. E.",
+  "year": "2013",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "meyer2016",
+  "families": [
+   "Meyer"
+  ],
+  "authors_text": "Meyer, M. et al.",
+  "year": "2016",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "plummer2023",
+  "families": [
+   "Plummer"
+  ],
+  "authors_text": "Plummer, T. W. et al.",
+  "year": "2023",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "reich2010",
+  "families": [
+   "Reich"
+  ],
+  "authors_text": "Reich, D. et al.",
+  "year": "2010",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "richter2017",
+  "families": [
+   "Richter"
+  ],
+  "authors_text": "Richter, D. et al.",
+  "year": "2017",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "scerri2018",
+  "families": [
+   "Scerri"
+  ],
+  "authors_text": "Scerri, E. M. L. et al.",
+  "year": "2018",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "semaw1997",
+  "families": [
+   "Semaw"
+  ],
+  "authors_text": "Semaw, S. et al.",
+  "year": "1997",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "thieme1997",
+  "families": [
+   "Thieme"
+  ],
+  "authors_text": "Thieme, H.",
+  "year": "1997",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "vidal2022",
+  "families": [
+   "Vidal"
+  ],
+  "authors_text": "Vidal, C. M. et al.",
+  "year": "2022",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "white2003",
+  "families": [
+   "White"
+  ],
+  "authors_text": "White, T. D. et al.",
+  "year": "2003",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "white2009",
+  "families": [
+   "White",
+   "Asfaw",
+   "Beyene",
+   "Haile-Selassie",
+   "Lovejoy",
+   "Suwa",
+   "WoldeGabriel"
+  ],
+  "authors_text": "White, T. D., Asfaw, B., Beyene, Y., Haile-Selassie, Y., Lovejoy, C. O., Suwa, G., & WoldeGabriel, G.",
+  "year": "2009",
+  "status": "VERIFIED-CROSSREF"
+ }
+]

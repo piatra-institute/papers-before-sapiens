@@ -1,10 +1,10 @@
 {
-  "manuscript_sha256": "66902e76d2e1055ca6f930dd85eb1004af255a8a2c79cf1d1bbe54323e1e05c1",
+  "manuscript_sha256": "83b0cb9fb1f061cd08397799959a1fbe744c2b8d3a5936a3ae404519be95f97d",
   "full_read": true,
   "argument_review": true,
   "structure_review": true,
   "voice_review": true,
   "source_review": true,
   "final_read": true,
-  "notes": "Prose revision: descriptive headings; abstract rewritten (221 words) to state method and key numbers; aphoristic closers and metaphors ('Carrying turns landscape into a sequence of delayed uses', 'Its inheritance is older') rewritten as declaratives; narrative citations given author-year form; one input date corrected in the simulation."
+  "notes": "Structured-evidence migration: inline bibliography converted to references.yaml (CSL) with Pandoc [@id] citations; claims.yaml ledger and execution receipt added; prose unchanged apart from citation syntax."
 }

@@ -1,0 +1,963 @@
+# CSL references with stable IDs; cite with Pandoc [@id] syntax.
+# Migrated from the legacy inline bibliography. Entries with a DOI were resolved through doi.org
+# content negotiation (CSL-JSON) and checked for year and title; others were matched in Crossref
+# or entered by hand. Provenance per entry is in sources.md.
+references:
+- id: berna2012
+  type: article-journal
+  title: Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern
+    Cape province, South Africa
+  author:
+  - given: Francesco
+    family: Berna
+  - given: Paul
+    family: Goldberg
+  - given: Liora Kolska
+    family: Horwitz
+  - given: James
+    family: Brink
+  - given: Sharon
+    family: Holt
+  - given: Marion
+    family: Bamford
+  - given: Michael
+    family: Chazan
+  container-title: Proceedings of the National Academy of Sciences
+  volume: '109'
+  issue: '20'
+  DOI: 10.1073/pnas.1117620109
+  issued:
+    date-parts:
+    - - 2012
+  page: E1215-E1220
+- id: brown1985
+  type: article-journal
+  title: Early <span class="nocase"><i>Homo erectus</i></span> skeleton from west Lake Turkana, Kenya
+  author:
+  - given: Frank
+    family: Brown
+  - given: John
+    family: Harris
+  - given: Richard
+    family: Leakey
+  - given: Alan
+    family: Walker
+  container-title: Nature
+  volume: '316'
+  issue: '6031'
+  page: 788-792
+  DOI: 10.1038/316788a0
+  issued:
+    date-parts:
+    - - 1985
+- id: brunet2002
+  type: article-journal
+  title: A new hominid from the Upper Miocene of Chad, Central Africa
+  author:
+  - given: Michel
+    family: Brunet
+  - given: Franck
+    family: Guy
+  - given: David
+    family: Pilbeam
+  - given: Hassane Taisso
+    family: Mackaye
+  - given: Andossa
+    family: Likius
+  - given: Djimdoumalbaye
+    family: Ahounta
+  - given: Alain
+    family: Beauvilain
+  - given: Cécile
+    family: Blondel
+  - given: Hervé
+    family: Bocherens
+  - given: Jean-Renaud
+    family: Boisserie
+  - given: Louis
+    family: De Bonis
+  - given: Yves
+    family: Coppens
+  - given: Jean
+    family: Dejax
+  - given: Christiane
+    family: Denys
+  - given: Philippe
+    family: Duringer
+  - given: Véra
+    family: Eisenmann
+  - given: Gongdibé
+    family: Fanone
+  - given: Pierre
+    family: Fronty
+  - given: Denis
+    family: Geraads
+  - given: Thomas
+    family: Lehmann
+  - given: Fabrice
+    family: Lihoreau
+  - given: Antoine
+    family: Louchart
+  - given: Adoum
+    family: Mahamat
+  - given: Gildas
+    family: Merceron
+  - given: Guy
+    family: Mouchelin
+  - given: Olga
+    family: Otero
+  - given: Pablo Pelaez
+    family: Campomanes
+  - given: Marcia Ponce
+    family: De Leon
+  - given: Jean-Claude
+    family: Rage
+  - given: Michel
+    family: Sapanet
+  - given: Mathieu
+    family: Schuster
+  - given: Jean
+    family: Sudre
+  - given: Pascal
+    family: Tassy
+  - given: Xavier
+    family: Valentin
+  - given: Patrick
+    family: Vignaud
+  - given: Laurent
+    family: Viriot
+  - given: Antoine
+    family: Zazzo
+  - given: Christoph
+    family: Zollikofer
+  container-title: Nature
+  volume: '418'
+  issue: '6894'
+  page: 145-151
+  DOI: 10.1038/nature00879
+  issued:
+    date-parts:
+    - - 2002
+- id: detroit2019
+  type: article-journal
+  title: A new species of <span class="nocase"><i>Homo</i></span> from the Late Pleistocene of the Philippines
+  author:
+  - given: Florent
+    family: Détroit
+  - given: Armand Salvador
+    family: Mijares
+  - given: Julien
+    family: Corny
+  - given: Guillaume
+    family: Daver
+  - given: Clément
+    family: Zanolli
+  - given: Eusebio
+    family: Dizon
+  - given: Emil
+    family: Robles
+  - given: Rainer
+    family: Grün
+  - given: Philip J.
+    family: Piper
+  container-title: Nature
+  volume: '568'
+  issue: '7751'
+  page: 181-186
+  DOI: 10.1038/s41586-019-1067-9
+  issued:
+    date-parts:
+    - - 2019
+- id: dirks2017
+  type: article-journal
+  title: The age of <span class="nocase"><i>Homo naledi</i></span> and associated sediments in the Rising
+    Star Cave, South Africa
+  author:
+  - given: Paul HGM
+    family: Dirks
+  - given: Eric M
+    family: Roberts
+  - given: Hannah
+    family: Hilbert-Wolf
+  - given: Jan D
+    family: Kramers
+  - given: John
+    family: Hawks
+  - given: Anthony
+    family: Dosseto
+  - given: Mathieu
+    family: Duval
+  - given: Marina
+    family: Elliott
+  - given: Mary
+    family: Evans
+  - given: Rainer
+    family: Grün
+  - given: John
+    family: Hellstrom
+  - given: Andy IR
+    family: Herries
+  - given: Renaud
+    family: Joannes-Boyau
+  - given: Tebogo V
+    family: Makhubela
+  - given: Christa J
+    family: Placzek
+  - given: Jessie
+    family: Robbins
+  - given: Carl
+    family: Spandler
+  - given: Jelle
+    family: Wiersma
+  - given: Jon
+    family: Woodhead
+  - given: Lee R
+    family: Berger
+  container-title: eLife
+  volume: '6'
+  DOI: 10.7554/elife.24231
+  URL: http://dx.doi.org/10.7554/eLife.24231
+  issued:
+    date-parts:
+    - - 2017
+  page: e24231
+- id: green2010
+  type: article-journal
+  title: A Draft Sequence of the Neandertal Genome
+  author:
+  - given: Richard E.
+    family: Green
+  - given: Johannes
+    family: Krause
+  - given: Adrian W.
+    family: Briggs
+  - given: Tomislav
+    family: Maricic
+  - given: Udo
+    family: Stenzel
+  - given: Martin
+    family: Kircher
+  - given: Nick
+    family: Patterson
+  - given: Heng
+    family: Li
+  - given: Weiwei
+    family: Zhai
+  - given: Markus Hsi-Yang
+    family: Fritz
+  - given: Nancy F.
+    family: Hansen
+  - given: Eric Y.
+    family: Durand
+  - given: Anna-Sapfo
+    family: Malaspinas
+  - given: Jeffrey D.
+    family: Jensen
+  - given: Tomas
+    family: Marques-Bonet
+  - given: Can
+    family: Alkan
+  - given: Kay
+    family: Prüfer
+  - given: Matthias
+    family: Meyer
+  - given: Hernán A.
+    family: Burbano
+  - given: Jeffrey M.
+    family: Good
+  - given: Rigo
+    family: Schultz
+  - given: Ayinuer
+    family: Aximu-Petri
+  - given: Anne
+    family: Butthof
+  - given: Barbara
+    family: Höber
+  - given: Barbara
+    family: Höffner
+  - given: Madlen
+    family: Siegemund
+  - given: Antje
+    family: Weihmann
+  - given: Chad
+    family: Nusbaum
+  - given: Eric S.
+    family: Lander
+  - given: Carsten
+    family: Russ
+  - given: Nathaniel
+    family: Novod
+  - given: Jason
+    family: Affourtit
+  - given: Michael
+    family: Egholm
+  - given: Christine
+    family: Verna
+  - given: Pavao
+    family: Rudan
+  - given: Dejana
+    family: Brajkovic
+  - given: Željko
+    family: Kucan
+  - given: Ivan
+    family: Gušic
+  - given: Vladimir B.
+    family: Doronichev
+  - given: Liubov V.
+    family: Golovanova
+  - given: Carles
+    family: Lalueza-Fox
+  - given: Marco
+    family: de la Rasilla
+  - given: Javier
+    family: Fortea
+  - given: Antonio
+    family: Rosas
+  - given: Ralf W.
+    family: Schmitz
+  - given: Philip L. F.
+    family: Johnson
+  - given: Evan E.
+    family: Eichler
+  - given: Daniel
+    family: Falush
+  - given: Ewan
+    family: Birney
+  - given: James C.
+    family: Mullikin
+  - given: Montgomery
+    family: Slatkin
+  - given: Rasmus
+    family: Nielsen
+  - given: Janet
+    family: Kelso
+  - given: Michael
+    family: Lachmann
+  - given: David
+    family: Reich
+  - given: Svante
+    family: Pääbo
+  container-title: Science
+  volume: '328'
+  issue: '5979'
+  page: 710-722
+  DOI: 10.1126/science.1188021
+  URL: http://dx.doi.org/10.1126/science.1188021
+  issued:
+    date-parts:
+    - - 2010
+- id: harmand2015
+  type: article-journal
+  title: 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya
+  author:
+  - given: Sonia
+    family: Harmand
+  - given: Jason E.
+    family: Lewis
+  - given: Craig S.
+    family: Feibel
+  - given: Christopher J.
+    family: Lepre
+  - given: Sandrine
+    family: Prat
+  - given: Arnaud
+    family: Lenoble
+  - given: Xavier
+    family: Boës
+  - given: Rhonda L.
+    family: Quinn
+  - given: Michel
+    family: Brenet
+  - given: Adrian
+    family: Arroyo
+  - given: Nicholas
+    family: Taylor
+  - given: Sophie
+    family: Clément
+  - given: Guillaume
+    family: Daver
+  - given: Jean-Philip
+    family: Brugal
+  - given: Louise
+    family: Leakey
+  - given: Richard A.
+    family: Mortlock
+  - given: James D.
+    family: Wright
+  - given: Sammy
+    family: Lokorodi
+  - given: Christopher
+    family: Kirwa
+  - given: Dennis V.
+    family: Kent
+  - given: Hélène
+    family: Roche
+  container-title: Nature
+  volume: '521'
+  issue: '7552'
+  page: 310-315
+  DOI: 10.1038/nature14464
+  issued:
+    date-parts:
+    - - 2015
+- id: hublin2017
+  type: article-journal
+  title: New fossils from Jebel Irhoud, Morocco and the pan-African origin of <span class="nocase"><i>Homo
+    sapiens</i></span>
+  author:
+  - given: Jean-Jacques
+    family: Hublin
+  - given: Abdelouahed
+    family: Ben-Ncer
+  - given: Shara E.
+    family: Bailey
+  - given: Sarah E.
+    family: Freidline
+  - given: Simon
+    family: Neubauer
+  - given: Matthew M.
+    family: Skinner
+  - given: Inga
+    family: Bergmann
+  - given: Adeline
+    family: Le Cabec
+  - given: Stefano
+    family: Benazzi
+  - given: Katerina
+    family: Harvati
+  - given: Philipp
+    family: Gunz
+  container-title: Nature
+  volume: '546'
+  issue: '7657'
+  page: 289-292
+  DOI: 10.1038/nature22336
+  issued:
+    date-parts:
+    - - 2017
+- id: hutson2025
+  type: article-journal
+  title: Revised age for Schöningen hunting spears indicates intensification of Neanderthal cooperative
+    behavior around 200,000 years ago
+  author:
+  - given: Jarod M.
+    family: Hutson
+  - given: Felix
+    family: Bittmann
+  - given: Peter
+    family: Fischer
+  - given: Alejandro
+    family: García-Moreno
+  - given: Sabine
+    family: Gaudzinski-Windheuser
+  - given: Ellie
+    family: Nelson
+  - given: José E.
+    family: Ortiz
+  - given: Kirsty E. H.
+    family: Penkman
+  - given: Zoran M.
+    family: Perić
+  - given: Daniel
+    family: Richter
+  - given: Trinidad
+    family: Torres
+  - given: Elaine
+    family: Turner
+  - given: Aritza
+    family: Villaluenga
+  - given: Dustin
+    family: White
+  - given: Olaf
+    family: Jöris
+  container-title: Science Advances
+  volume: '11'
+  issue: '19'
+  DOI: 10.1126/sciadv.adv0752
+  issued:
+    date-parts:
+    - - 2025
+  page: eadv0752
+- id: leakey1979
+  type: article-journal
+  title: Pliocene footprints in the Laetolil Beds at Laetoli, northern Tanzania
+  author:
+  - given: M. D.
+    family: Leakey
+  - given: R. L.
+    family: Hay
+  container-title: Nature
+  volume: '278'
+  issue: '5702'
+  page: 317-323
+  DOI: 10.1038/278317a0
+  issued:
+    date-parts:
+    - - 1979
+- id: lepre2011
+  type: article-journal
+  title: An earlier origin for the Acheulian
+  author:
+  - given: Christopher J.
+    family: Lepre
+  - given: Hélène
+    family: Roche
+  - given: Dennis V.
+    family: Kent
+  - given: Sonia
+    family: Harmand
+  - given: Rhonda L.
+    family: Quinn
+  - given: Jean-Philippe
+    family: Brugal
+  - given: Pierre-Jean
+    family: Texier
+  - given: Arnaud
+    family: Lenoble
+  - given: Craig S.
+    family: Feibel
+  container-title: Nature
+  volume: '477'
+  issue: '7362'
+  page: 82-85
+  DOI: 10.1038/nature10372
+  issued:
+    date-parts:
+    - - 2011
+- id: lordkipanidze2013
+  type: article-journal
+  title: "A Complete Skull from Dmanisi, Georgia, and the Evolutionary Biology of Early\n            <span\
+    \ class=\"nocase\"><i>Homo</i></span>"
+  author:
+  - given: David
+    family: Lordkipanidze
+  - given: Marcia S.
+    family: Ponce de León
+  - given: Ann
+    family: Margvelashvili
+  - given: Yoel
+    family: Rak
+  - given: G. Philip
+    family: Rightmire
+  - given: Abesalom
+    family: Vekua
+  - given: Christoph P. E.
+    family: Zollikofer
+  container-title: Science
+  volume: '342'
+  issue: '6156'
+  page: 326-331
+  DOI: 10.1126/science.1238484
+  issued:
+    date-parts:
+    - - 2013
+- id: meyer2016
+  type: article-journal
+  title: Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins
+  author:
+  - given: Matthias
+    family: Meyer
+  - given: Juan-Luis
+    family: Arsuaga
+  - given: Cesare
+    family: de Filippo
+  - given: Sarah
+    family: Nagel
+  - given: Ayinuer
+    family: Aximu-Petri
+  - given: Birgit
+    family: Nickel
+  - given: Ignacio
+    family: Martínez
+  - given: Ana
+    family: Gracia
+  - given: José María Bermúdez
+    family: de Castro
+  - given: Eudald
+    family: Carbonell
+  - given: Bence
+    family: Viola
+  - given: Janet
+    family: Kelso
+  - given: Kay
+    family: Prüfer
+  - given: Svante
+    family: Pääbo
+  container-title: Nature
+  volume: '531'
+  issue: '7595'
+  page: 504-507
+  DOI: 10.1038/nature17405
+  URL: http://dx.doi.org/10.1038/nature17405
+  issued:
+    date-parts:
+    - - 2016
+- id: plummer2023
+  type: article-journal
+  title: "Expanded geographic distribution and dietary strategies of the earliest Oldowan hominins and\n\
+    \                    <span class=\"nocase\"><i>Paranthropus</i></span>"
+  author:
+  - given: Thomas W.
+    family: Plummer
+  - given: James S.
+    family: Oliver
+  - given: Emma M.
+    family: Finestone
+  - given: Peter W.
+    family: Ditchfield
+  - given: Laura C.
+    family: Bishop
+  - given: Scott A.
+    family: Blumenthal
+  - given: Cristina
+    family: Lemorini
+  - given: Isabella
+    family: Caricola
+  - given: Shara E.
+    family: Bailey
+  - given: Andy I. R.
+    family: Herries
+  - given: Jennifer A.
+    family: Parkinson
+  - given: Elizabeth
+    family: Whitfield
+  - given: Fritz
+    family: Hertel
+  - given: Rahab N.
+    family: Kinyanjui
+  - given: Thomas H.
+    family: Vincent
+  - given: Youjuan
+    family: Li
+  - given: Julien
+    family: Louys
+  - given: Stephen R.
+    family: Frost
+  - given: David R.
+    family: Braun
+  - given: Jonathan S.
+    family: Reeves
+  - given: Emily D. G.
+    family: Early
+  - given: Blasto
+    family: Onyango
+  - given: Raquel
+    family: Lamela-Lopez
+  - given: Frances L.
+    family: Forrest
+  - given: Huaiyu
+    family: He
+  - given: Timothy P.
+    family: Lane
+  - given: Marine
+    family: Frouin
+  - given: Sébastien
+    family: Nomade
+  - given: Evan P.
+    family: Wilson
+  - given: Simion K.
+    family: Bartilol
+  - given: Nelson Kiprono
+    family: Rotich
+  - given: Richard
+    family: Potts
+  container-title: Science
+  volume: '379'
+  issue: '6632'
+  page: 561-566
+  DOI: 10.1126/science.abo7452
+  issued:
+    date-parts:
+    - - 2023
+- id: reich2010
+  type: article-journal
+  title: Genetic history of an archaic hominin group from Denisova Cave in Siberia
+  author:
+  - given: David
+    family: Reich
+  - given: Richard E.
+    family: Green
+  - given: Martin
+    family: Kircher
+  - given: Johannes
+    family: Krause
+  - given: Nick
+    family: Patterson
+  - given: Eric Y.
+    family: Durand
+  - given: Bence
+    family: Viola
+  - given: Adrian W.
+    family: Briggs
+  - given: Udo
+    family: Stenzel
+  - given: Philip L. F.
+    family: Johnson
+  - given: Tomislav
+    family: Maricic
+  - given: Jeffrey M.
+    family: Good
+  - given: Tomas
+    family: Marques-Bonet
+  - given: Can
+    family: Alkan
+  - given: Qiaomei
+    family: Fu
+  - given: Swapan
+    family: Mallick
+  - given: Heng
+    family: Li
+  - given: Matthias
+    family: Meyer
+  - given: Evan E.
+    family: Eichler
+  - given: Mark
+    family: Stoneking
+  - given: Michael
+    family: Richards
+  - given: Sahra
+    family: Talamo
+  - given: Michael V.
+    family: Shunkov
+  - given: Anatoli P.
+    family: Derevianko
+  - given: Jean-Jacques
+    family: Hublin
+  - given: Janet
+    family: Kelso
+  - given: Montgomery
+    family: Slatkin
+  - given: Svante
+    family: Pääbo
+  container-title: Nature
+  volume: '468'
+  issue: '7327'
+  page: 1053-1060
+  DOI: 10.1038/nature09710
+  issued:
+    date-parts:
+    - - 2010
+- id: richter2017
+  type: article-journal
+  title: The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone
+    Age
+  author:
+  - given: Daniel
+    family: Richter
+  - given: Rainer
+    family: Grün
+  - given: Renaud
+    family: Joannes-Boyau
+  - given: Teresa E.
+    family: Steele
+  - given: Fethi
+    family: Amani
+  - given: Mathieu
+    family: Rué
+  - given: Paul
+    family: Fernandes
+  - given: Jean-Paul
+    family: Raynal
+  - given: Denis
+    family: Geraads
+  - given: Abdelouahed
+    family: Ben-Ncer
+  - given: Jean-Jacques
+    family: Hublin
+  - given: Shannon P.
+    family: McPherron
+  container-title: Nature
+  volume: '546'
+  issue: '7657'
+  page: 293-296
+  DOI: 10.1038/nature22335
+  issued:
+    date-parts:
+    - - 2017
+- id: scerri2018
+  type: article-journal
+  title: Did Our Species Evolve in Subdivided Populations across Africa, and Why Does It Matter?
+  author:
+  - given: Eleanor M.L.
+    family: Scerri
+  - given: Mark G.
+    family: Thomas
+  - given: Andrea
+    family: Manica
+  - given: Philipp
+    family: Gunz
+  - given: Jay T.
+    family: Stock
+  - given: Chris
+    family: Stringer
+  - given: Matt
+    family: Grove
+  - given: Huw S.
+    family: Groucutt
+  - given: Axel
+    family: Timmermann
+  - given: G. Philip
+    family: Rightmire
+  - given: Francesco
+    family: d’Errico
+  - given: Christian A.
+    family: Tryon
+  - given: Nick A.
+    family: Drake
+  - given: Alison S.
+    family: Brooks
+  - given: Robin W.
+    family: Dennell
+  - given: Richard
+    family: Durbin
+  - given: Brenna M.
+    family: Henn
+  - given: Julia
+    family: Lee-Thorp
+  - given: Peter
+    family: deMenocal
+  - given: Michael D.
+    family: Petraglia
+  - given: Jessica C.
+    family: Thompson
+  - given: Aylwyn
+    family: Scally
+  - given: Lounès
+    family: Chikhi
+  container-title: Trends in Ecology & Evolution
+  volume: '33'
+  issue: '8'
+  page: 582-594
+  DOI: 10.1016/j.tree.2018.05.005
+  URL: http://dx.doi.org/10.1016/j.tree.2018.05.005
+  issued:
+    date-parts:
+    - - 2018
+- id: semaw1997
+  type: article-journal
+  title: 2.5-million-year-old stone tools from Gona, Ethiopia
+  author:
+  - given: S.
+    family: Semaw
+  - given: P.
+    family: Renne
+  - given: J. W. K.
+    family: Harris
+  - given: C. S.
+    family: Feibel
+  - given: R. L.
+    family: Bernor
+  - given: N.
+    family: Fesseha
+  - given: K.
+    family: Mowbray
+  container-title: Nature
+  volume: '385'
+  issue: '6614'
+  page: 333-336
+  DOI: 10.1038/385333a0
+  issued:
+    date-parts:
+    - - 1997
+- id: thieme1997
+  type: article-journal
+  title: Lower Palaeolithic hunting spears from Germany
+  author:
+  - given: Hartmut
+    family: Thieme
+  container-title: Nature
+  volume: '385'
+  issue: '6619'
+  page: 807-810
+  DOI: 10.1038/385807a0
+  issued:
+    date-parts:
+    - - 1997
+- id: vidal2022
+  type: article-journal
+  title: Age of the oldest known <span class="nocase"><i>Homo sapiens</i></span> from eastern Africa
+  author:
+  - given: Céline M.
+    family: Vidal
+  - given: Christine S.
+    family: Lane
+  - given: Asfawossen
+    family: Asrat
+  - given: Dan N.
+    family: Barfod
+  - given: Darren F.
+    family: Mark
+  - given: Emma L.
+    family: Tomlinson
+  - given: Amdemichael Zafu
+    family: Tadesse
+  - given: Gezahegn
+    family: Yirgu
+  - given: Alan
+    family: Deino
+  - given: William
+    family: Hutchison
+  - given: Aurélien
+    family: Mounier
+  - given: Clive
+    family: Oppenheimer
+  container-title: Nature
+  volume: '601'
+  issue: '7894'
+  page: 579-583
+  DOI: 10.1038/s41586-021-04275-8
+  issued:
+    date-parts:
+    - - 2022
+- id: white2003
+  type: article-journal
+  title: Pleistocene <span class="nocase"><i>Homo sapiens</i></span> from Middle Awash, Ethiopia
+  author:
+  - given: Tim D.
+    family: White
+  - given: Berhane
+    family: Asfaw
+  - given: David
+    family: DeGusta
+  - given: Henry
+    family: Gilbert
+  - given: Gary D.
+    family: Richards
+  - given: Gen
+    family: Suwa
+  - given: F.
+    family: Clark Howell
+  container-title: Nature
+  volume: '423'
+  issue: '6941'
+  page: 742-747
+  DOI: 10.1038/nature01669
+  issued:
+    date-parts:
+    - - 2003
+- id: white2009
+  type: article-journal
+  title: <span class="nocase"><i>Ardipithecus ramidus</i></span> and the Paleobiology of Early Hominids
+  author:
+  - given: Tim D.
+    family: White
+  - given: Berhane
+    family: Asfaw
+  - given: Yonas
+    family: Beyene
+  - given: Yohannes
+    family: Haile-Selassie
+  - given: C. Owen
+    family: Lovejoy
+  - given: Gen
+    family: Suwa
+  - given: Giday
+    family: WoldeGabriel
+  container-title: Science
+  volume: '326'
+  issue: '5949'
+  page: 64-86
+  DOI: 10.1126/science.1175802
+  issued:
+    date-parts:
+    - - 2009

@@ -2,6 +2,16 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-09-23 — structured-evidence migration
+
+Structured-evidence migration (references and claims).
+- references.yaml: 22 CSL entries, all with DOIs. 18 correct automatic Crossref matches resolved through doi.org; dirks2017 (automatic match was the eLife decision letter), green2010, meyer2016 and scerri2018 resolved by hand through their DOIs. Full author lists now come from the records (the legacy list abbreviated most to "et al."). Page/article numbers added for berna2012 (E1215-E1220) and hutson2025 (eadv0752).
+- Taxon names in titles set in italics without title-casing. Citations converted by hand for the "et al." forms (the converter could not parse the abbreviated author lists); no corrections to authors, years or titles were needed.
+- claims.yaml: 47 claims (29 computation, 8 source, 7 interpretation, 1 definition, 2 assumption). Every number in the abstract and section 10 and every literature date entered in simulation/stratigraphy.py that appears in the text is bound to simulation/output/results.json; the word-form counts ("seven of the eight", "at least five") are interpretations citing /summary/n_predating_* and /summary/n_contemporary_lineages. Source claims checked against Crossref/OpenAlex abstracts: Vidal et al. (233 +/- 22 kyr), Berna et al. (~1.0 Ma in situ burning), Hutson et al. (~200,000 years), Plummer et al. (3.032-2.581 Ma, hippopotamid butchery, Paranthropus), Dirks et al. (236-335 ka), Reich et al. (Denisovans), Scerri et al. (structured African populations), White et al. 2009 (4.4 Ma, bipedality with arboreality).
+- Not bound (no abstract available or abstract silent): Green et al. "a few percent of the genome"; Harmand et al., Semaw et al., Lepre et al., Leakey and Hay, Brunet et al., Brown et al., Hublin et al., Richter et al., Meyer et al., Détroit et al., Thieme, White et al. 2003 (no abstracts in Crossref/OpenAlex); the H. floresiensis survival date (no citation in the text).
+- Execution receipt: run before-sapiens (uv run python run_all.py); results.json reproduced byte-identically.
+- metadata claims_target: results.json -> claim-ledger.
+
 ## 2026-09-23 — prose revision
 
 Prose revised against the house standards. Headings: Abstract; 1. Introduction; 2. Bipedalism; 3. Stone tools before secure Homo; 4. Early Homo and continental dispersal; 5. Fire use and maintenance; 6. Organic technology and teaching; 7. Contemporary hominin lineages; 8. The emergence of Homo sapiens in Africa; 9. Single-variable origin accounts; 10. Quantified stratigraphy; 11. Conclusion; Reproducibility.
