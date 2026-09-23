@@ -1,0 +1,18 @@
+{
+  "pdf_sha256": "326ced0a3e77c6a6eaf8317dc4573494c2978fc292654adb05e9eff74b4118b8",
+  "page_count": 10,
+  "pages_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "all_pages_inspected": true,
+  "notes": "All 10 pages inspected after the prose revision; headings, italics and references render cleanly; the paper embeds no figures. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (b7e50e436870 to 326ced0a3e77); the rendered text is byte-for-byte identical and no page was re-inspected."
+}

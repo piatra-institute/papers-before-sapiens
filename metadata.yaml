@@ -1,13 +1,30 @@
 slug: before-sapiens
 web_slug: before-sapiens
-title: "Before Sapiens: The Hominin Field Before the Surviving Species"
-header: "Before Sapiens"
-created: "2026-05"        # inception month (drives YYYY/MM archive path)
-date: "May 2026"            # publication month (shown on web)
+title: 'Before Sapiens: The Hominin Field Before the Surviving Species'
+header: Before Sapiens
+created: 2026-05
+date: May 2026
 paper_dir: paper
 has_simulation: true
-claims_target: results.json      # results.json | claim-ledger | none
+claims_target: results.json
 repo: git@github.com:piatra-institute/papers-before-sapiens.git
 github: https://github.com/piatra-institute/papers-before-sapiens
-status: published              # draft | built | published
-abstract: "The boundary around *Homo sapiens* is late in the history of human capacities. Fossils from Jebel Irhoud place early members of the clade, or a population close to it, at roughly 315,000 years ago; Omo I gives a minimum age of 233,000 years for eastern Africa. By then, bipedal locomotion, stone-flake production, long-range dispersal, large-animal processing, Acheulean biface manufacture, fire use, wooden weapon production, and extended social learning already had deep histories. Bipedality and stone working reach beyond secure *Homo*. Range expansion, biface manufacture, fire practices, and organic technologies were carried by *Homo erectus*, Neanderthal-lineage populations, Denisovans, *Homo naledi*, *Homo floresiensis*, and poorly resolved regional forms. The sapiens boundary is a taxonomic stabilization inside an older hominin field. The record has the structure of a stratigraphy: upright bodies before large brains, manipulative hands before secure species assignment, tools before modern anatomy, population networks before global replacement. The surviving species inherited this field and narrowed it by outlasting, absorbing, or replacing the other lineages. Read as a stratigraphy of dated capacities, seven of eight precede the Jebel Irhoud boundary and all eight precede Omo I, the deepest by more than 4 million years."
+status: published
+abstract: The taxonomic boundary around *Homo sapiens* falls late in the history of human capacities.
+  Fossils from Jebel Irhoud place early members of the clade, or a population close to it, at about 315,000
+  years ago, and Omo I gives a minimum age of 233,000 years for eastern Africa. By then bipedal locomotion,
+  stone-flake production, long-range dispersal, large-animal processing, Acheulean biface manufacture,
+  fire use, wooden weapon production, and extended social learning already had long histories. Bipedality
+  and stone working predate secure *Homo*. Range expansion, biface manufacture, fire practices, and organic
+  technologies were sustained by *Homo erectus*, Neanderthal-lineage populations, Denisovans, *Homo naledi*,
+  *Homo floresiensis*, and poorly resolved regional forms. We compile the earliest securely dated marker
+  of eight capacities from the cited literature and compare each with the sapiens boundary. Seven of the
+  eight predate both Jebel Irhoud and Omo I; the exception, wooden weapons, is known from a single site
+  where wood happened to survive. Bipedal locomotion precedes the Jebel Irhoud boundary by 4.085 million
+  years, the eight onsets span 4.2 million years, and the median lead is 1.885 million years. At least
+  five other hominin lineages are dated near the boundary. The capacities later attributed to *H. sapiens*
+  were built across an older, multi-lineage hominin population, which the surviving species inherited
+  and narrowed by outlasting, absorbing, or replacing the other lineages.
+web_blurb: Compiles the earliest dated markers of eight hominin capacities; seven predate the earliest
+  Homo sapiens fossils, with bipedalism leading the Jebel Irhoud boundary by 4.085 million years and at
+  least five other lineages dated near it.

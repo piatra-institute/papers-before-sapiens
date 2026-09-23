@@ -2,6 +2,14 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-09-23 — prose revision
+
+Prose revised against the house standards. Headings: Abstract; 1. Introduction; 2. Bipedalism; 3. Stone tools before secure Homo; 4. Early Homo and continental dispersal; 5. Fire use and maintenance; 6. Organic technology and teaching; 7. Contemporary hominin lineages; 8. The emergence of Homo sapiens in Africa; 9. Single-variable origin accounts; 10. Quantified stratigraphy; 11. Conclusion; Reproducibility.
+Tic counts before -> after: 'rather than' 3 -> 0; 'the paper' 1 -> 0; sentence-initial 'This is' 0 -> 0 (one introduced and removed). Narrative citations ("Hublin and colleagues", "Green and colleagues", etc.) converted to author-year; Thieme (1997), previously uncited, now cited for the original Schoningen description.
+Correction (simulation input): stratigraphy.py entered Nyayanga large-animal butchery at 2.90 Ma while documenting "3.0-2.6 Ma; midpoint used"; the midpoint is 2.80. Changed to 2.80; its lead over Jebel Irhoud changes 2.585 -> 2.485 Ma. Counts (7/8, 7/8), deepest lead 4.085, span 4.2 and median lead 1.885 Ma are unaffected (the median is the mean of the 4th and 5th leads, 1.485 and 2.285). The value 2.585 was not quoted in the text; the midpoint rule is now stated in section 10.
+Verified against results.json: 4.085, 4.2, 1.885, 1.485 ("close to 1.5"), 7 of 8 for both boundaries, 5 contemporary lineages, Homo naledi midpoint 0.2855.
+Grid audit: no grids, thresholds or optimisation in the computation; nothing to refine.
+
 ## 2026-06-13 — voice reform
 
 Scope: density and rhythm pass against the house voice guide.

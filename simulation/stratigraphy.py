@@ -21,7 +21,7 @@ CAPABILITIES = [
      "Ardipithecus ramidus", "White et al. 2009"),
     ("stone-flake production", 3.30, "Lomekwi 3, West Turkana",
      "unknown (pre-secure Homo)", "Harmand et al. 2015"),
-    ("large-animal butchery", 2.90, "Nyayanga (3.0-2.6 Ma; midpoint used)",
+    ("large-animal butchery", 2.80, "Nyayanga (3.0-2.6 Ma; midpoint used)",
      "Paranthropus / early Homo", "Plummer et al. 2023"),
     ("Oldowan technology", 2.60, "Gona, Ethiopia",
      "early Homo", "Semaw et al. 1997"),

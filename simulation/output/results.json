@@ -115,11 +115,11 @@
     },
     {
       "capability": "large-animal butchery",
-      "first_appearance_Ma": 2.9,
+      "first_appearance_Ma": 2.8,
       "site": "Nyayanga (3.0-2.6 Ma; midpoint used)",
       "maker": "Paranthropus / early Homo",
       "citation": "Plummer et al. 2023",
-      "lead_before_boundary_Ma": 2.585,
+      "lead_before_boundary_Ma": 2.485,
       "predates_jebel_irhoud": true,
       "predates_omo_i": true
     },
